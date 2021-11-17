@@ -1,4 +1,4 @@
-dGraph
+dGraph--分层级的有向无环图布局，考虑了减少交叉线的情况
 ======
 
 Create layered directed graphs in SVG with a few lines of JS in a beautiful and compact layout. The library is based on
